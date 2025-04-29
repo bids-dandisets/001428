@@ -32,6 +32,7 @@ keywords:
 - POD Electrophysiology Aging
 license:
 - spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001428/versions/draft/assets/
 name: Hippocampal Neural Dynamics and Postoperative Delirium-Like Behavior in Aged
