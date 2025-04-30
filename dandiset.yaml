@@ -6,13 +6,13 @@
 about: []
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Hippocampal Neural Dynamics and Postoperative Delirium-Like Behavior in
-  Aged Mice (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001428/draft
+citation: Guo, Shiqi (2025) Hippocampal Neural Dynamics and Postoperative Delirium-Like
+  Behavior in Aged Mice (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001428/draft
 contributor:
 - awardNumber: 4 R01 AG 070141-02
   name: National Institutes of Health (NIH)
@@ -20,7 +20,13 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 - email: sguo0@mgh.harvard.edu
+  identifier: 0000-0001-6323-9287
+  includeInCitation: true
   name: Guo, Shiqi
+  schemaKey: Person
+- name: Yang, Liuyue
+  schemaKey: Person
+- name: Ding, Weihua
   schemaKey: Person
 dateCreated: '2025-04-29T15:26:09.881796+00:00'
 description: Using a model of POD in older mice, we investigated the effects of anesthesia/surgery
